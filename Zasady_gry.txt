@@ -1,0 +1,20 @@
+Inspirowane zasadami z https://www.kurnik.pl/warcaby/zasady.phtml ale lekko zmienione
+
+Celem gry jest zbicie wszystkich pionów przeciwnika albo zablokowanie wszystkich, które pozostają na planszy, pozbawiając przeciwnika możliwości wykonania ruchu.
+Piony mogą poruszać się o jedno pole do przodu po przekątnej (na ukos) na wolne pola.
+
+Bicie pionem następuje przez przeskoczenie sąsiedniego pionu (lub damki) przeciwnika na pole znajdujące się tuż za nim po przekątnej (pole to musi być wolne). 
+
+Piony mogą bić zarówno do przodu, jak i do tyłu.
+
+W jednym ruchu wolno wykonać więcej niż jedno bicie tym samym pionem, przeskakując przez kolejne piony przeciwnika.
+
+Bicia są obowiązkowe.
+
+Pion, który dojdzie do ostatniego rzędu planszy, staje się damką, przy czym jeśli znajdzie się tam w wyniku bicia i będzie mógł wykonać kolejne bicie (do tyłu), to będzie musiał je wykonać i nie staje się wtedy damką.
+
+Damki mogą poruszać się w jednym ruchu o dowolną liczbę pól do przodu lub do tyłu po przekątnej, zatrzymując się na wolnych polach.
+
+Bicie damką jest możliwe z dowolnej odległości po linii przekątnej i następuje przez przeskoczenie pionu (lub damki) przeciwnika, za którym musi znajdować się co najmniej jedno wolne pole -- damka przeskakuje na dowolne z tych pól i może kontynuować bicie (na tej samej lub prostopadłej linii).
+
+Kiedy istnieje kilka możliwych bić, gracz może wybrać dowolne z nich.
